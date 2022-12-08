@@ -15,5 +15,3 @@
 [Câu 21] (https://codepen.io/Tung-Nguyen3010/pen/yLEQeKL)
 ##Thực Hành
 [Bài thực hành làm quen React và tạo component] (https://codesandbox.io/s/inspiring-visvesvaraya-duvrbq)
-[Thực hành dùng props và sate] (https://codepen.io/Tung-Nguyen3010/pen/vYrvzpm)
-[Bài thực hành số 1, 2, 3] (https://codesandbox.io/s/angry-night-95csou)
