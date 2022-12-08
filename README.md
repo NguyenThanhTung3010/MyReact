@@ -13,5 +13,5 @@
 [Câu 19] (https://codepen.io/Tung-Nguyen3010/pen/abKQdqB)
 [Câu 20] (https://codepen.io/Tung-Nguyen3010/pen/YzvRweY)
 [Câu 21] (https://codepen.io/Tung-Nguyen3010/pen/yLEQeKL)
-##Thực Hành
+## Thực hành
 [Bài thực hành làm quen React và tạo component] (https://codesandbox.io/s/inspiring-visvesvaraya-duvrbq)
