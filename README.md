@@ -1,9 +1,9 @@
 # Bài tập môn React
 ## Lý thuyết
-. [Câu 9] (https://codepen.io/Tung-Nguyen3010/pen/XWYyXam)
-. [Câu 10] (https://codepen.io/Tung-Nguyen3010/pen/LYrWqjG)
-. [Câu 11] (https://codepen.io/Tung-Nguyen3010/pen/BaVWMQw)
-. [Câu 12] (https://codepen.io/Tung-Nguyen3010/pen/PoapVdQ)
+1. [Câu 9](https://codepen.io/Tung-Nguyen3010/pen/XWYyXam)
+2. [Câu 10](https://codepen.io/Tung-Nguyen3010/pen/LYrWqjG)
+3. [Câu 11](https://codepen.io/Tung-Nguyen3010/pen/BaVWMQw)
+4. [Câu 12] (https://codepen.io/Tung-Nguyen3010/pen/PoapVdQ)
 . [Câu 13] (https://codepen.io/Tung-Nguyen3010/pen/mdKWvzB)
 . [Câu 14] (https://codepen.io/Tung-Nguyen3010/pen/QWxqOzV)
 . [Câu 15] (https://codepen.io/Tung-Nguyen3010/pen/QWxqOYZ)
